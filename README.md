@@ -6,7 +6,7 @@ aaaaa
 
 # hashtag más un espacio es un título, el espacio es importante para que se lea como título
 
-## hashtag más un espacio es un subtítulo 
+##  doble hashtag más un espacio es un subtítulo 
 
 Puedo poner links!!
 
